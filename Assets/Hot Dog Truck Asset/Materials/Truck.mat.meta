@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2482aa4e543af4c48a8b9a1043bc9ac1
+timeCreated: 1475606866
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73014
+  packageName: Free Hot Dog Truck
+  packageVersion: 1.0
+  assetPath: Assets/Hot Dog Truck Asset/Materials/Truck.mat
+  uploadId: 140368

@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.Skeleton Name="Skeleton_Retriever_dog" ExportPath="/Script/Engine.Skeleton'/Game/Toon_Dogs_Pack/Meshes/Skeleton_Retriever_dog.Skeleton_Retriever_dog'"
+   Begin Object Class=/Script/Engine.AnimCurveMetaData Name="AnimCurveMetaData_0" ExportPath="/Script/Engine.AnimCurveMetaData'/Game/Toon_Dogs_Pack/Meshes/Skeleton_Retriever_dog.Skeleton_Retriever_dog:AnimCurveMetaData_0'"
+   End Object
+   Begin Object Name="AnimCurveMetaData_0" ExportPath="/Script/Engine.AnimCurveMetaData'/Game/Toon_Dogs_Pack/Meshes/Skeleton_Retriever_dog.Skeleton_Retriever_dog:AnimCurveMetaData_0'"
+   End Object
+   BoneTree(53)=()
+   PreviewSkeletalMesh="/Game/Toon_Dogs_Pack/Meshes/Mesh_Retriever_dog.Mesh_Retriever_dog"
+   AssetUserData(0)="/Script/Engine.AnimCurveMetaData'AnimCurveMetaData_0'"
+End Object

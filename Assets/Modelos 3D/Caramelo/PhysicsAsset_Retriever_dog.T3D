@@ -1,0 +1,543 @@
+Begin Object Class=/Script/Engine.PhysicsAsset Name="PhysicsAsset_Retriever_dog" ExportPath="/Script/Engine.PhysicsAsset'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog'"
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_9" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_9'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_8" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_8'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_7" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_7'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_6" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_6'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_51" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_51'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_50" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_50'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_49" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_49'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_48" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_48'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_47" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_47'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_46" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_46'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_45" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_45'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_44" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_44'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_43" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_43'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_42" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_42'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_41" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_41'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_40" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_40'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_29" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_29'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_28" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_28'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_27" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_27'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_26" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_26'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_25" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_25'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_24" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_24'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_23" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_23'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_22" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_22'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_21" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_21'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_20" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_20'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_19" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_19'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_18" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_18'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_17" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_17'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_16" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_16'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_15" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_15'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_14" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_14'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_13" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_13'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_12" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_12'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_11" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_11'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_10" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_10'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_9" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_9'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_8" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_8'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_7" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_7'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_6" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_6'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_53" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_53'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_5" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_5'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_48" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_48'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_47" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_47'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_46" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_46'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_45" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_45'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_44" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_44'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_43" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_43'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_42" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_42'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_41" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_41'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_40" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_40'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_4" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_4'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_39" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_39'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_38" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_38'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_37" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_37'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_26" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_26'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_25" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_25'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_24" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_24'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_22" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_22'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_21" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_21'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_20" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_20'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_19" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_19'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_18" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_18'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_17" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_17'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_16" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_16'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_15" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_15'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_14" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_14'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_13" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_13'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_12" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_12'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_11" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_11'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_10" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_10'"
+   End Object
+   Begin Object Name="SkeletalBodySetup_9" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_9'"
+      AggGeom=(SphylElems=((Center=(X=0.000000,Y=-0.015258,Z=-0.002425),Rotation=(Pitch=6.899365,Yaw=-90.000008,Roll=0.000000),Radius=0.022531,Length=0.030116)))
+      BoneName="tail_01"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_8" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_8'"
+      AggGeom=(SphylElems=((Center=(X=0.000000,Y=-0.046472,Z=0.008187),Rotation=(Pitch=40.600277,Yaw=-90.000000,Roll=-0.000002),Radius=0.038883,Length=0.043121)))
+      BoneName="Spine_01"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_7" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_7'"
+      AggGeom=(SphylElems=((Center=(X=-0.000000,Y=-0.069150,Z=-0.077978),Rotation=(Pitch=-13.068781,Yaw=-90.000008,Roll=0.000001),Radius=0.097422,Length=0.122687)))
+      BoneName="Spine_02"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_6" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_6'"
+      AggGeom=(SphylElems=((Center=(X=0.000000,Y=-0.050480,Z=-0.071535),Rotation=(Pitch=-6.489970,Yaw=-89.999985,Roll=-0.000004),Radius=0.092225,Length=0.125535)))
+      BoneName="Spine_03"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_51" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_51'"
+      AggGeom=(SphylElems=((Center=(X=-0.005052,Y=-0.010797,Z=0.002687),Rotation=(Pitch=0.000000,Yaw=69.887993,Roll=-89.920250),Radius=0.027854,Length=0.034250)))
+      BoneName="claws_f_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_50" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_50'"
+      AggGeom=(SphylElems=((Center=(X=-0.002299,Y=-0.014798,Z=-0.003359),Rotation=(Pitch=0.000000,Yaw=-91.647202,Roll=-88.713570),Radius=0.021393,Length=0.028977)))
+      BoneName="foot_f_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_49" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_49'"
+      AggGeom=(SphylElems=((Center=(X=-0.002797,Y=-0.032826,Z=-0.000692),Rotation=(Pitch=33.499149,Yaw=-9.126977,Roll=-89.999992),Radius=0.024853,Length=0.025025)))
+      BoneName="shin_f_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_48" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_48'"
+      AggGeom=(SphylElems=((Center=(X=0.003538,Y=-0.088852,Z=0.001721),Rotation=(Pitch=0.000000,Yaw=0.257554,Roll=-84.926025),Radius=0.049378,Length=0.078903)))
+      BoneName="leg_f_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_47" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_47'"
+      AggGeom=(SphylElems=((Center=(X=-0.009746,Y=-0.094926,Z=0.005660),Rotation=(Pitch=-34.108227,Yaw=-90.000008,Roll=-19.270685),Radius=0.045060,Length=0.076336)))
+      BoneName="thigh_f_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_46" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_46'"
+      AggGeom=(SphylElems=((Center=(X=0.019745,Y=-0.031756,Z=-0.024621),Rotation=(Pitch=0.000000,Yaw=-167.100998,Roll=-78.872429),Radius=0.056457,Length=0.076312)))
+      BoneName="hip_f_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_45" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_45'"
+      AggGeom=(SphylElems=((Center=(X=0.005052,Y=-0.010797,Z=0.002687),Rotation=(Pitch=0.000007,Yaw=-69.888000,Roll=-89.920265),Radius=0.027854,Length=0.034250)))
+      BoneName="claws_f_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_44" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_44'"
+      AggGeom=(SphylElems=((Center=(X=0.002299,Y=-0.014798,Z=-0.003359),Rotation=(Pitch=0.000000,Yaw=91.647202,Roll=-88.713562),Radius=0.021393,Length=0.028977)))
+      BoneName="foot_f_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_43" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_43'"
+      AggGeom=(SphylElems=((Center=(X=0.002797,Y=-0.032826,Z=-0.000692),Rotation=(Pitch=33.499126,Yaw=-170.872925,Roll=-90.000000),Radius=0.024854,Length=0.025025)))
+      BoneName="shin_f_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_42" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_42'"
+      AggGeom=(SphylElems=((Center=(X=-0.003538,Y=-0.088852,Z=0.001721),Rotation=(Pitch=0.000000,Yaw=-0.257556,Roll=-84.926025),Radius=0.049378,Length=0.078903)))
+      BoneName="leg_f_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_41" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_41'"
+      AggGeom=(SphylElems=((Center=(X=0.009746,Y=-0.094926,Z=0.005660),Rotation=(Pitch=-34.108189,Yaw=-89.999985,Roll=19.270687),Radius=0.045060,Length=0.076336)))
+      BoneName="thigh_f_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_40" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_40'"
+      AggGeom=(SphylElems=((Center=(X=-0.019745,Y=-0.031756,Z=-0.024621),Rotation=(Pitch=0.000000,Yaw=167.100998,Roll=-78.872452),Radius=0.056457,Length=0.076312)))
+      BoneName="hip_f_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_29" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_29'"
+      AggGeom=(SphylElems=((Center=(X=-0.000000,Y=-0.050908,Z=0.006948),Rotation=(Pitch=0.000000,Yaw=-179.997498,Roll=-47.920185),Radius=0.095605,Length=0.103513)))
+      BoneName="head"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_28" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_28'"
+      AggGeom=(SphylElems=((Center=(X=-0.000000,Y=-0.040566,Z=-0.020046),Rotation=(Pitch=-33.193409,Yaw=-89.999992,Roll=0.000049),Radius=0.088486,Length=0.115185)))
+      BoneName="neck"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_27" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_27'"
+      AggGeom=(SphylElems=((Center=(X=0.000001,Y=-0.051491,Z=-0.053722),Rotation=(Pitch=8.105905,Yaw=-89.999992,Roll=-0.000766),Radius=0.102060,Length=0.137549)))
+      BoneName="Spine_05"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_26" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_26'"
+      AggGeom=(SphylElems=((Center=(X=-0.000000,Y=-0.051170,Z=-0.068088),Rotation=(Pitch=-4.477455,Yaw=-90.000008,Roll=0.000187),Radius=0.100090,Length=0.134629)))
+      BoneName="Spine_04"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_25" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_25'"
+      AggGeom=(SphylElems=((Center=(X=-0.009927,Y=-0.012066,Z=0.005005),Rotation=(Pitch=0.000000,Yaw=-105.756294,Roll=-89.472961),Radius=0.025777,Length=0.032286)))
+      BoneName="claws_b_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_24" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_24'"
+      AggGeom=(SphylElems=((Center=(X=-0.007733,Y=-0.012999,Z=0.003684),Rotation=(Pitch=0.000000,Yaw=93.176201,Roll=-83.692139),Radius=0.019152,Length=0.030112)))
+      BoneName="foot_b_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_23" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_23'"
+      AggGeom=(SphylElems=((Center=(X=0.001260,Y=-0.041408,Z=0.000329),Rotation=(Pitch=0.000000,Yaw=-5.426826,Roll=-86.862709),Radius=0.027100,Length=0.058021)))
+      BoneName="shin_b_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_22" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_22'"
+      AggGeom=(SphylElems=((Center=(X=-0.005515,Y=-0.070813,Z=-0.031785),Rotation=(Pitch=0.000000,Yaw=-178.790161,Roll=-84.822800),Radius=0.086984,Length=0.114213)))
+      BoneName="leg_b_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_21" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_21'"
+      AggGeom=(SphylElems=((Center=(X=-0.011962,Y=-0.033062,Z=-0.002068),Rotation=(Pitch=24.643137,Yaw=-89.999992,Roll=12.676065),Radius=0.042412,Length=0.087597)))
+      BoneName="thigh_b_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_20" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_20'"
+      AggGeom=(SphylElems=((Center=(X=0.005564,Y=-0.056130,Z=-0.009222),Rotation=(Pitch=0.000000,Yaw=174.622818,Roll=-51.317997),Radius=0.029665,Length=0.068294)))
+      BoneName="hip_b_R"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_19" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_19'"
+      AggGeom=(SphylElems=((Center=(X=0.009907,Y=-0.012150,Z=0.005018),Rotation=(Pitch=0.000000,Yaw=105.365929,Roll=-89.385376),Radius=0.025687,Length=0.032248)))
+      BoneName="claws_b_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_18" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_18'"
+      AggGeom=(SphylElems=((Center=(X=0.007733,Y=-0.012999,Z=0.003684),Rotation=(Pitch=0.000000,Yaw=-93.176201,Roll=-83.692139),Radius=0.019152,Length=0.030112)))
+      BoneName="foot_b_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_17" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_17'"
+      AggGeom=(SphylElems=((Center=(X=-0.001260,Y=-0.041408,Z=0.000329),Rotation=(Pitch=0.000000,Yaw=5.426826,Roll=-86.862701),Radius=0.027100,Length=0.058021)))
+      BoneName="shin_b_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_16" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_16'"
+      AggGeom=(SphylElems=((Center=(X=0.005515,Y=-0.070813,Z=-0.031785),Rotation=(Pitch=0.000000,Yaw=178.790146,Roll=-84.822792),Radius=0.086984,Length=0.114213)))
+      BoneName="leg_b_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_15" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_15'"
+      AggGeom=(SphylElems=((Center=(X=0.011962,Y=-0.033062,Z=-0.002068),Rotation=(Pitch=24.643124,Yaw=-89.999992,Roll=-12.676059),Radius=0.042412,Length=0.087597)))
+      BoneName="thigh_b_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_14" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_14'"
+      AggGeom=(SphylElems=((Center=(X=-0.005564,Y=-0.056130,Z=-0.009222),Rotation=(Pitch=0.000000,Yaw=-174.622818,Roll=-51.317997),Radius=0.029665,Length=0.068294)))
+      BoneName="hip_b_L"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_13" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_13'"
+      AggGeom=(SphylElems=((Center=(X=0.000000,Y=-0.058487,Z=0.008462),Rotation=(Pitch=0.000000,Yaw=0.000004,Roll=-77.930679),Radius=0.018893,Length=0.028908)))
+      BoneName="tail_05"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_12" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_12'"
+      AggGeom=(SphylElems=((Center=(X=0.000000,Y=-0.056916,Z=-0.007494),Rotation=(Pitch=-39.735863,Yaw=-90.000000,Roll=0.000022),Radius=0.034367,Length=0.037499)))
+      BoneName="tail_04"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_11" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_11'"
+      AggGeom=(SphylElems=((Center=(X=-0.000000,Y=-0.033721,Z=-0.006237),Rotation=(Pitch=0.000000,Yaw=-0.000005,Roll=-73.850655),Radius=0.044048,Length=0.050699)))
+      BoneName="tail_03"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_10" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SkeletalBodySetup_10'"
+      AggGeom=(SphylElems=((Center=(X=-0.000000,Y=-0.019675,Z=-0.005455),Rotation=(Pitch=-19.403015,Yaw=-89.999992,Roll=-0.000001),Radius=0.030540,Length=0.038688)))
+      BoneName="tail_02"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_9" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_9'"
+      DefaultInstance=(JointName="tail_04",ConstraintBone1="tail_04",ConstraintBone2="tail_03",Pos2=(X=-0.000000,Y=-0.068349,Z=0.000000),PriAxis2=(X=1.000000,Y=0.000000,Z=0.000000),SecAxis2=(X=0.000000,Y=0.940244,Z=-0.340501),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_8" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_8'"
+      DefaultInstance=(JointName="tail_03",ConstraintBone1="tail_03",ConstraintBone2="tail_02",Pos2=(X=-0.000000,Y=-0.064721,Z=-0.000000),PriAxis2=(X=1.000000,Y=-0.000000,Z=-0.000000),SecAxis2=(X=-0.000000,Y=0.971822,Z=-0.235716),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_7" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_7'"
+      DefaultInstance=(JointName="tail_02",ConstraintBone1="tail_02",ConstraintBone2="tail_01",Pos2=(X=0.000000,Y=-0.059333,Z=-0.000000),PriAxis2=(X=1.000000,Y=0.000000,Z=0.000000),SecAxis2=(X=0.000000,Y=0.997783,Z=-0.066557),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_6" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_6'"
+      DefaultInstance=(JointName="tail_01",ConstraintBone1="tail_01",ConstraintBone2="Spine_01",Pos2=(X=-0.000000,Y=-0.062187,Z=0.000000),PriAxis2=(X=1.000000,Y=-0.000000,Z=0.000000),SecAxis2=(X=0.000000,Y=0.924984,Z=-0.380005),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_53" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_53'"
+      DefaultInstance=(JointName="UserConstraint",ConstraintBone1="Spine_03",ConstraintBone2="Spine_04",PriAxis2=(X=-1.000000,Y=0.000000,Z=0.000003),SecAxis2=(X=-0.000000,Y=-0.998137,Z=-0.061015),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_5" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_5'"
+      DefaultInstance=(JointName="Spine_01",ConstraintBone1="Spine_01",ConstraintBone2="Spine_02",Pos2=(X=0.000000,Y=-0.100262,Z=0.000000),PriAxis2=(X=1.000000,Y=0.000000,Z=-0.000000),SecAxis2=(X=-0.000000,Y=0.992484,Z=0.122372),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_48" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_48'"
+      DefaultInstance=(JointName="claws_f_R",ConstraintBone1="claws_f_R",ConstraintBone2="foot_f_R",Pos2=(X=-0.000000,Y=-0.035741,Z=0.000000),PriAxis2=(X=0.999770,Y=-0.012429,Z=-0.017471),SecAxis2=(X=0.003640,Y=0.901399,Z=-0.432975),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_47" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_47'"
+      DefaultInstance=(JointName="foot_f_R",ConstraintBone1="foot_f_R",ConstraintBone2="shin_f_R",Pos2=(X=-0.000000,Y=-0.056246,Z=0.000000),PriAxis2=(X=0.999521,Y=0.023199,Z=-0.020461),SecAxis2=(X=-0.029517,Y=0.517484,Z=-0.855184),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_46" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_46'"
+      DefaultInstance=(JointName="shin_f_R",ConstraintBone1="shin_f_R",ConstraintBone2="leg_f_R",Pos2=(X=-0.000000,Y=-0.164595,Z=-0.000000),PriAxis2=(X=0.998618,Y=0.052546,Z=0.000571),SecAxis2=(X=-0.052448,Y=0.997307,Z=-0.051268),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_45" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_45'"
+      DefaultInstance=(JointName="leg_f_R",ConstraintBone1="leg_f_R",ConstraintBone2="thigh_f_R",Pos2=(X=-0.000000,Y=-0.122482,Z=-0.000000),PriAxis2=(X=-0.997258,Y=0.061015,Z=-0.041865),SecAxis2=(X=0.020232,Y=0.769050,Z=0.638868),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_44" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_44'"
+      DefaultInstance=(JointName="thigh_f_R",ConstraintBone1="thigh_f_R",ConstraintBone2="hip_f_R",Pos2=(X=-0.000000,Y=-0.123578,Z=0.000000),PriAxis2=(X=-0.990406,Y=0.121028,Z=0.066697),SecAxis2=(X=0.117089,Y=0.478637,Z=0.870170),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_43" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_43'"
+      DefaultInstance=(JointName="hip_f_R",ConstraintBone1="hip_f_R",ConstraintBone2="Spine_05",Pos2=(X=0.059327,Y=-0.067920,Z=0.040600),PriAxis2=(X=0.996504,Y=0.055354,Z=0.062581),SecAxis2=(X=-0.079274,Y=0.389902,Z=0.917438),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_42" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_42'"
+      DefaultInstance=(JointName="claws_f_L",ConstraintBone1="claws_f_L",ConstraintBone2="foot_f_L",Pos2=(X=0.000000,Y=-0.035741,Z=-0.000000),PriAxis2=(X=0.999770,Y=0.012429,Z=0.017471),SecAxis2=(X=-0.003640,Y=0.901399,Z=-0.432975),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_41" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_41'"
+      DefaultInstance=(JointName="foot_f_L",ConstraintBone1="foot_f_L",ConstraintBone2="shin_f_L",Pos2=(X=-0.000000,Y=-0.056246,Z=0.000000),PriAxis2=(X=0.999521,Y=-0.023199,Z=0.020461),SecAxis2=(X=0.029517,Y=0.517485,Z=-0.855183),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_40" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_40'"
+      DefaultInstance=(JointName="shin_f_L",ConstraintBone1="shin_f_L",ConstraintBone2="leg_f_L",Pos2=(X=0.000000,Y=-0.164595,Z=-0.000000),PriAxis2=(X=0.998618,Y=-0.052546,Z=-0.000571),SecAxis2=(X=0.052448,Y=0.997307,Z=-0.051268),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_4" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_4'"
+      DefaultInstance=(JointName="Spine_02",ConstraintBone1="Spine_02",ConstraintBone2="Spine_03",Pos2=(X=-0.000000,Y=-0.112111,Z=-0.000000),PriAxis2=(X=1.000000,Y=-0.000000,Z=-0.000000),SecAxis2=(X=0.000000,Y=0.998070,Z=0.062094),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_39" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_39'"
+      DefaultInstance=(JointName="leg_f_L",ConstraintBone1="leg_f_L",ConstraintBone2="thigh_f_L",Pos2=(X=0.000000,Y=-0.122482,Z=-0.000000),PriAxis2=(X=-0.997258,Y=-0.061015,Z=0.041865),SecAxis2=(X=-0.020232,Y=0.769050,Z=0.638868),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_38" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_38'"
+      DefaultInstance=(JointName="thigh_f_L",ConstraintBone1="thigh_f_L",ConstraintBone2="hip_f_L",Pos2=(X=0.000000,Y=-0.123578,Z=-0.000000),PriAxis2=(X=-0.990406,Y=-0.121028,Z=-0.066697),SecAxis2=(X=-0.117089,Y=0.478637,Z=0.870170),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_37" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_37'"
+      DefaultInstance=(JointName="hip_f_L",ConstraintBone1="hip_f_L",ConstraintBone2="Spine_05",Pos2=(X=-0.059328,Y=-0.067920,Z=0.040598),PriAxis2=(X=0.996505,Y=-0.055354,Z=-0.062554),SecAxis2=(X=0.079249,Y=0.389902,Z=0.917440),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_26" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_26'"
+      DefaultInstance=(JointName="head",ConstraintBone1="head",ConstraintBone2="neck",Pos2=(X=-0.000000,Y=-0.121426,Z=0.000000),PriAxis2=(X=1.000000,Y=0.000045,Z=-0.000019),SecAxis2=(X=0.000001,Y=0.374165,Z=0.927362),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_25" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_25'"
+      DefaultInstance=(JointName="neck",ConstraintBone1="neck",ConstraintBone2="Spine_05",Pos2=(X=0.000000,Y=-0.114255,Z=-0.000000),PriAxis2=(X=1.000000,Y=0.000001,Z=0.000014),SecAxis2=(X=0.000012,Y=0.421658,Z=-0.906755),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_24" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_24'"
+      DefaultInstance=(JointName="Spine_05",ConstraintBone1="Spine_05",ConstraintBone2="Spine_04",Pos2=(X=-0.000000,Y=-0.108488,Z=0.000000),PriAxis2=(X=1.000000,Y=-0.000000,Z=-0.000017),SecAxis2=(X=-0.000000,Y=0.999934,Z=-0.011450),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_22" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_22'"
+      DefaultInstance=(JointName="claws_b_R",ConstraintBone1="claws_b_R",ConstraintBone2="foot_b_R",Pos2=(X=0.000000,Y=-0.031356,Z=0.000000),PriAxis2=(X=0.998469,Y=0.048866,Z=-0.025917),SecAxis2=(X=-0.053950,Y=0.963730,Z=-0.261369),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_21" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_21'"
+      DefaultInstance=(JointName="foot_b_R",ConstraintBone1="foot_b_R",ConstraintBone2="shin_b_R",Pos2=(X=-0.000000,Y=-0.101668,Z=0.000000),PriAxis2=(X=0.995905,Y=-0.001039,Z=-0.090404),SecAxis2=(X=-0.084382,Y=0.348306,Z=-0.933575),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_20" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_20'"
+      DefaultInstance=(JointName="shin_b_R",ConstraintBone1="shin_b_R",ConstraintBone2="leg_b_R",Pos2=(X=0.000000,Y=-0.176230,Z=0.000000),PriAxis2=(X=0.992520,Y=0.094966,Z=-0.076721),SecAxis2=(X=-0.120530,Y=0.662290,Z=-0.739489),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_19" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_19'"
+      DefaultInstance=(JointName="leg_b_R",ConstraintBone1="leg_b_R",ConstraintBone2="thigh_b_R",Pos2=(X=-0.000000,Y=-0.125367,Z=0.000000),PriAxis2=(X=-0.995158,Y=-0.056447,Z=-0.080465),SecAxis2=(X=0.051314,Y=0.399871,Z=-0.915134),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_18" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_18'"
+      DefaultInstance=(JointName="thigh_b_R",ConstraintBone1="thigh_b_R",ConstraintBone2="hip_b_R",Pos2=(X=-0.000000,Y=-0.103057,Z=0.000000),PriAxis2=(X=-0.964505,Y=0.200231,Z=-0.172157),SecAxis2=(X=0.243704,Y=0.423918,Z=-0.872297),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_17" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_17'"
+      DefaultInstance=(JointName="hip_b_R",ConstraintBone1="hip_b_R",ConstraintBone2="Spine_02",Pos2=(X=-0.056192,Y=-0.041882,Z=0.040826),PriAxis2=(X=-0.976541,Y=-0.109921,Z=0.185165),SecAxis2=(X=0.068635,Y=0.656161,Z=0.751493),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_16" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_16'"
+      DefaultInstance=(JointName="claws_b_L",ConstraintBone1="claws_b_L",ConstraintBone2="foot_b_L",Pos2=(X=-0.000000,Y=-0.031356,Z=0.000000),PriAxis2=(X=0.998469,Y=-0.048866,Z=0.025917),SecAxis2=(X=0.053950,Y=0.963730,Z=-0.261369),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_15" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_15'"
+      DefaultInstance=(JointName="foot_b_L",ConstraintBone1="foot_b_L",ConstraintBone2="shin_b_L",Pos2=(X=0.000000,Y=-0.101668,Z=0.000000),PriAxis2=(X=0.995905,Y=0.001039,Z=0.090404),SecAxis2=(X=0.084382,Y=0.348306,Z=-0.933575),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_14" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_14'"
+      DefaultInstance=(JointName="shin_b_L",ConstraintBone1="shin_b_L",ConstraintBone2="leg_b_L",Pos2=(X=-0.000000,Y=-0.176230,Z=0.000000),PriAxis2=(X=0.992520,Y=-0.094966,Z=0.076721),SecAxis2=(X=0.120530,Y=0.662290,Z=-0.739489),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_13" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_13'"
+      DefaultInstance=(JointName="leg_b_L",ConstraintBone1="leg_b_L",ConstraintBone2="thigh_b_L",Pos2=(X=0.000000,Y=-0.125367,Z=0.000000),PriAxis2=(X=-0.995158,Y=0.056447,Z=0.080465),SecAxis2=(X=-0.051314,Y=0.399871,Z=-0.915134),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Limited)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_12" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_12'"
+      DefaultInstance=(JointName="thigh_b_L",ConstraintBone1="thigh_b_L",ConstraintBone2="hip_b_L",Pos2=(X=0.000000,Y=-0.103057,Z=0.000000),PriAxis2=(X=-0.964505,Y=-0.200231,Z=0.172157),SecAxis2=(X=-0.243704,Y=0.423918,Z=-0.872297),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_11" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_11'"
+      DefaultInstance=(JointName="hip_b_L",ConstraintBone1="hip_b_L",ConstraintBone2="Spine_02",Pos2=(X=0.056192,Y=-0.041882,Z=0.040826),PriAxis2=(X=-0.976541,Y=0.109921,Z=-0.185165),SecAxis2=(X=-0.068635,Y=0.656161,Z=0.751493),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=2.000000,Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=3.000000,TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_10" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Toon_Dogs_Pack/Meshes/PhysicsAsset_Retriever_dog.PhysicsAsset_Retriever_dog:PhysicsConstraintTemplate_10'"
+      DefaultInstance=(JointName="tail_05",ConstraintBone1="tail_05",ConstraintBone2="tail_04",Pos2=(X=-0.000000,Y=-0.060799,Z=-0.000000),PriAxis2=(X=1.000000,Y=0.000000,Z=-0.000000),SecAxis2=(X=-0.000000,Y=0.972032,Z=-0.234850),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=5.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Locked),TwistLimit=(TwistLimitDegrees=10.000000,TwistMotion=ACM_Limited)))
+   End Object
+   PreviewSkeletalMesh="/Game/Toon_Dogs_Pack/Meshes/Mesh_Retriever_dog.Mesh_Retriever_dog"
+   BoundsBodies(0)=0
+   BoundsBodies(1)=1
+   BoundsBodies(2)=2
+   BoundsBodies(3)=3
+   BoundsBodies(4)=4
+   BoundsBodies(5)=5
+   BoundsBodies(6)=6
+   BoundsBodies(7)=7
+   BoundsBodies(8)=8
+   BoundsBodies(9)=9
+   BoundsBodies(10)=10
+   BoundsBodies(11)=11
+   BoundsBodies(12)=12
+   BoundsBodies(13)=13
+   BoundsBodies(14)=14
+   BoundsBodies(15)=15
+   BoundsBodies(16)=16
+   BoundsBodies(17)=17
+   BoundsBodies(18)=18
+   BoundsBodies(19)=19
+   BoundsBodies(20)=20
+   BoundsBodies(21)=21
+   BoundsBodies(22)=22
+   BoundsBodies(23)=23
+   BoundsBodies(24)=24
+   BoundsBodies(25)=25
+   BoundsBodies(26)=26
+   BoundsBodies(27)=27
+   BoundsBodies(28)=28
+   BoundsBodies(29)=29
+   BoundsBodies(30)=30
+   BoundsBodies(31)=31
+   BoundsBodies(32)=32
+   BoundsBodies(33)=33
+   BoundsBodies(34)=34
+   BoundsBodies(35)=35
+   SkeletalBodySetups(0)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_6'"
+   SkeletalBodySetups(1)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_7'"
+   SkeletalBodySetups(2)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_8'"
+   SkeletalBodySetups(3)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_9'"
+   SkeletalBodySetups(4)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_10'"
+   SkeletalBodySetups(5)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_11'"
+   SkeletalBodySetups(6)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_12'"
+   SkeletalBodySetups(7)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_13'"
+   SkeletalBodySetups(8)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_14'"
+   SkeletalBodySetups(9)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_15'"
+   SkeletalBodySetups(10)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_16'"
+   SkeletalBodySetups(11)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_17'"
+   SkeletalBodySetups(12)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_18'"
+   SkeletalBodySetups(13)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_19'"
+   SkeletalBodySetups(14)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_20'"
+   SkeletalBodySetups(15)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_21'"
+   SkeletalBodySetups(16)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_22'"
+   SkeletalBodySetups(17)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_23'"
+   SkeletalBodySetups(18)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_24'"
+   SkeletalBodySetups(19)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_25'"
+   SkeletalBodySetups(20)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_26'"
+   SkeletalBodySetups(21)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_27'"
+   SkeletalBodySetups(22)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_28'"
+   SkeletalBodySetups(23)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_29'"
+   SkeletalBodySetups(24)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_40'"
+   SkeletalBodySetups(25)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_41'"
+   SkeletalBodySetups(26)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_42'"
+   SkeletalBodySetups(27)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_43'"
+   SkeletalBodySetups(28)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_44'"
+   SkeletalBodySetups(29)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_45'"
+   SkeletalBodySetups(30)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_46'"
+   SkeletalBodySetups(31)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_47'"
+   SkeletalBodySetups(32)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_48'"
+   SkeletalBodySetups(33)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_49'"
+   SkeletalBodySetups(34)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_50'"
+   SkeletalBodySetups(35)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_51'"
+   ConstraintSetup(0)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_4'"
+   ConstraintSetup(1)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_5'"
+   ConstraintSetup(2)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_6'"
+   ConstraintSetup(3)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_7'"
+   ConstraintSetup(4)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_8'"
+   ConstraintSetup(5)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_9'"
+   ConstraintSetup(6)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_10'"
+   ConstraintSetup(7)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_11'"
+   ConstraintSetup(8)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_12'"
+   ConstraintSetup(9)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_13'"
+   ConstraintSetup(10)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_14'"
+   ConstraintSetup(11)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_15'"
+   ConstraintSetup(12)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_16'"
+   ConstraintSetup(13)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_17'"
+   ConstraintSetup(14)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_18'"
+   ConstraintSetup(15)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_19'"
+   ConstraintSetup(16)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_20'"
+   ConstraintSetup(17)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_21'"
+   ConstraintSetup(18)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_22'"
+   ConstraintSetup(19)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_24'"
+   ConstraintSetup(20)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_25'"
+   ConstraintSetup(21)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_26'"
+   ConstraintSetup(22)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_37'"
+   ConstraintSetup(23)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_38'"
+   ConstraintSetup(24)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_39'"
+   ConstraintSetup(25)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_40'"
+   ConstraintSetup(26)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_41'"
+   ConstraintSetup(27)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_42'"
+   ConstraintSetup(28)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_43'"
+   ConstraintSetup(29)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_44'"
+   ConstraintSetup(30)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_45'"
+   ConstraintSetup(31)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_46'"
+   ConstraintSetup(32)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_47'"
+   ConstraintSetup(33)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_48'"
+   ConstraintSetup(34)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_53'"
+   SolverSettings=(CullDistance=1.000000,bUseLinearJointSolver=False)
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfo'SceneThumbnailInfo_0'"
+End Object
